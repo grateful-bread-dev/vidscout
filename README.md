@@ -2,7 +2,7 @@
 
 VidScout is an AI-powered semantic video search prototype.
 
-This first vertical slice:
+So far:
 
 1. samples frames from a video,
 2. converts each frame into a CLIP image embedding,
